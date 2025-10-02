@@ -6,6 +6,8 @@
 
 ### 🔭 I’m currently working on
 - **Personal AI Assistant** — Offline voice bot with GUI, reminders & smart automation
+- **Legal AI Assistant** — An AI-powered assistant for **legal document summarization, contract analysis, and case law insights**, making legal research faster and more accessible.
+
 
 ### 🌱 I’m currently learning
 - **FastAPI, React, and Tailwind** for full-stack apps  
@@ -37,10 +39,11 @@
 ---
 
 ## 🚀 Featured Projects
+- 🤖 [Offline AI Assistant](#) — Personal bot with reminders, query answering & GUI  
 - 🌍 [Circular Economy Marketplace](#) — AI + Blockchain + IoT for sustainability  
 - 💳 [Carbon Credit Marketplace](#) — AI-powered pricing model for carbon credits (*Hackathon Winner*)  
-- 🏋️ [AI Fitness Website](#) — Calorie counter using images + AI diet planner  
-- 🤖 [Offline AI Assistant](#) — Personal bot with reminders, query answering & GUI  
+- 📑 [Legal AI Assistant](#) — Calorie counter using images + AI diet planner
+- 📚 [Personalized Learning Platform](#) — A platform helping students learn efficiently with AI-driven recommendations. 
 
 ---
 
