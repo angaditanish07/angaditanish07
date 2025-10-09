@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanish Angadi</h1>
 <h3 align="center">Passionate about AI, Full-Stack Development & Innovative Projects</h3>
 <p align="center"><i>"Transforming ideas into impactful tech solutions"</i></p>
-![Coding GIF](./coding-cat.gif)
+![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWgxaHd6aWYzMGI5a2x2ZWxqYzc5N29uYmZ4OHAzZ2k5NTM2NHc0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 
 ### 🔭 I’m currently working on
