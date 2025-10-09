@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanish Angadi</h1>
 <h3 align="center">Passionate about AI, Full-Stack Development & Innovative Projects</h3>
 <p align="center"><i>"Transforming ideas into impactful tech solutions"</i></p>
-![Coding GIF](https://raw.githubusercontent.com/angaditanish07/angaditanish07/main/coding-man.gif)
----
+![Coding GIF](./coding-cat.gif)
+
 
 ### 🔭 I’m currently working on
 - **Personal AI Assistant** — Offline voice bot with GUI, reminders & smart automation
