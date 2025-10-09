@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanish Angadi</h1>
 <h3 align="center">Passionate about AI, Full-Stack Development & Innovative Projects</h3>
 <p align="center"><i>"Transforming ideas into impactful tech solutions"</i></p>
-![Pixel Cat](https://camo.githubusercontent.com/f228d467b57f41b08aa7845580960897b0b5349c6e1174b0c07cf52c83a3ff1b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f384861544f41336f304f6f414141416a2f706978656c2d6361742e676966)
+![GIF](Nft Coding GIF)
 ---
 
 ### 🔭 I’m currently working on
