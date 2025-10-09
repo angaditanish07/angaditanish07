@@ -1,12 +1,8 @@
-<!-- Header Section -->
-<div align="center">
-
-<h1 style="color:#00FFFF;">Hi 👋, I'm Tanish Angadi</h1>
-<h3>🚀 Passionate about AI, Full-Stack Development & Innovative Projects</h3>
-<p><i>"Transforming ideas into futuristic, human-centered tech solutions."</i></p>
-
-<img src="https://media.tenor.com/frFQUarNWE4AAAAj/penguin-dance-pengu.gif" width="220" alt="Penguin Dance" />
-
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tanish+Angadi;AI+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG"> </p> 
+<h3 align="center">🚀 Passionate about AI, Full-Stack Development & Innovative Projects</h3> <p align="center"><i>“Transforming ideas into futuristic, human-centered tech solutions.”</i></p>
+  <p align="center">
+    <img src="https://media.tenor.com/frFQUarNWE4AAAAj/penguin-dance-pengu.gif" width="220" alt="Penguin Dance">
+  </p>
 </div>
 
 ---
