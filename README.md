@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanish Angadi</h1>
 <h3 align="center">Passionate about AI, Full-Stack Development & Innovative Projects</h3>
 <p align="center"><i>"Transforming ideas into impactful tech solutions"</i></p>
-![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWgxaHd6aWYzMGI5a2x2ZWxqYzc5N29uYmZ4OHAzZ2k5NTM2NHc0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWgxaHd6aWYzMGI5a2x2ZWxqYzc5N29uYmZ4OHAzZ2k5NTM2NHc0byZlcD12MV9pbnRlc m5hbF9naWZfYn lfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" alt="Coding GIF">
+</p>
+
 
 
 ### 🔭 I’m currently working on
