@@ -50,9 +50,6 @@
 ---
 
 <!-- 👨‍💻 My Projects -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=00F0FF&center=false&vCenter=true&width=500&lines=My+Projects&repeat=false" alt="My Projects">
-</p>
 
 🌐 [**GitHub Portfolio**](https://github.com/angaditanish07)  
 💬 Ask me about:  
