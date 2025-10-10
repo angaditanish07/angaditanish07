@@ -117,6 +117,18 @@
 
 ---
 
+<!-- 🏆 GitHub Trophies -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=00F0FF&center=false&vCenter=true&width=500&lines=GitHub+Trophies&repeat=false" alt="GitHub Trophies">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=angaditanish07&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
 <!-- 🌐 Connect With Me -->
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=00F0FF&center=false&vCenter=true&width=500&lines=🌐+Connect+With+Me&repeat=false" alt="Connect With Me">
